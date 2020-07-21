@@ -1,4 +1,6 @@
 
-<center><div><b> Music Generation </b></div></center>
+<h1 align="center"> Music Generation</h1>
 
-![Let's Dance!](images/tumblr.gif)
+<p align="center">
+<img src="images/tumblr.gif"/>
+</p>
