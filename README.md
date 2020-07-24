@@ -13,7 +13,7 @@ This is my solution for the Lab1 MIT 6.S191 course on Introduction to Deep Learn
 
 ## Reference:
 
-Many thanks to Alexander Amini and Ava Soleymani and others for this Great lectures on Deep Neural Networks and Deep Sequence Modeling.
+Many thanks to Alexander Amini and Ava Soleymani and others for these great lectures on Deep Learning
 
 > © MIT 6.S191: Introduction to Deep Learning
 >
